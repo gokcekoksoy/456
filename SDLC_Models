@@ -29,7 +29,7 @@ Why it should not be used?
 • The software system that the customer wants with waterfall method is completed at the end of the project. At this stage, however, the customer can test the software system. 
   The customer must accept and use the completed software system with all its pros and cons.
 
-V – Model
+V – MODEL
 
 The verification and validation model must be determined system requirements, just like the waterfall model. Different from the Waterfall model, 
 a test plan is created before you start developing software. This model's name comes from here because the structure that occurs 
@@ -69,7 +69,7 @@ for these issues to work together in the early stages. For example, the architec
 This allows time to be used more effectively.
 
 
-Big Bang Model
+BIG BANG MODEL
 
 Big Bang Model is the simplest model in the Software Development Life Cycle. It requires less planning, lots of coding or programming and lots of funds. 
 The model name shows Big Bang as it is inspired by the Big Bang theory. According to the theory, the scientists say that after Big Bang blast lots of galaxies, 
