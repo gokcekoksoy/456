@@ -1,0 +1,116 @@
+WATERFALL MODEL
+
+The waterfall model is the earliest SDLC approach used for software development. It is also called a linear sequenary lifecycle model. 
+It is very simple to understand and use.
+In a waterfall model, each phase must be completed before starting the next phase, and there is no overlap in the stages. A document is created at the end of each phase. 
+
+-The activities at each step of the waterfall are fully fulfilled. That's a condition for the application of next step.
+-A document is created at the end of each phase. That's why the waterfall model is document-driven.
+-The software process is linear, meaning that the activities in the previous phase must be completed in order to move on to the next phase.
+-User participation is possible in the initial phase. User requirements are identified and detailed at this stage. 
+There is no dialogue with customers and users during the later design and coding phases.Modelin 
+
+Problems?
+• It is unrealistic for phases to be kept separate from each other precisely. In projects, these boundaries between phases may disappear.
+• The return between phases is insufficient. The model is not open for change.
+• Creating customer requirements on paper in detail before the project may cause problems in the future. 
+  Because customer requirements may change, it may be inevitable that the software system will also undergo structural changes. 
+  This increases the cost because the phases in the model may need to be applied several times in order to implement new and changing requirements.
+• It may take a long time for the system to become available.
+• Initial errors can take a very long time to detect. Fixing these errors raises the cost.
+
+Why it should not be used?
+
+• The customer may not be able to accurately express what they want. In this case, pre-project analysis will not be accurate. 
+  This causes a software system that the customer does not want to occur. The waterfall method prevents continuous dialogue with the customer. 
+  Because there is no return from the customer, it is not possible for the customer to correct any misunderstandings that occurred during the analysis phase.
+• In the waterfall method, the project flow is in the direction of transition to the next phase. That's why communication is one way. There is no return between phases. 
+  This prevents errors from being repaired.
+• The software system that the customer wants with waterfall method is completed at the end of the project. At this stage, however, the customer can test the software system. 
+  The customer must accept and use the completed software system with all its pros and cons.
+
+V – Model
+
+The verification and validation model must be determined system requirements, just like the waterfall model. Different from the Waterfall model, 
+a test plan is created before you start developing software. This model's name comes from here because the structure that occurs 
+when we draw software and test cycles is like the letter V.
+On the left side of the V model, the software development activities are carried out on the right side and the test stages are performed. 
+When the business requirement from software development activities is started, acceptance tests are started from the testing stages.
+In model V, the required states are defined to complete the working step. Each scheme contains instructions, advice and detailed descriptions. 
+Problems that may occur during development can be predetermined.
+In order for the V model to be available, the customer needs to know what they want and leave the development of the project to you, which is very important as the prototype will not be produced until the coding phase of the project. There is a change in the project
+test documents must be updated. Reaching the final product in the V model cannot be expressed in a linear way. 
+Maintenance, repair and abandoning the project are not included in the V model.
+It can be used in small, medium, and large size projects where the requirements are clear and specific. 
+Areas where model V is preferred; e-government applications and financial software.
+Linear models are recommended based on the assumption that the stages in the software process from analysis until they are taken live follow each other forward and 
+do not experience much return. All jobs must be cleared or finished in place to move from one stage to the next. For example, at the time of transition to design, 
+the analysis of the need is considered completely finished.
+In the choice of linear models, the role of the constant desire to see something new in human nature and to constantly innovate in parallel is great. 
+The most commonly used model type in software development is acceptable. It is used in part even in alternative models. T
+oday, however, linear models have significant disadvantages due to the constant change of user requests and technical infrastructures.
+The V-Model is one of the linear models and can be seen as a more organized version of the control phase of the waterfall model. 
+Each stage is named because it is shown similar to the letter "V" by matching it to its control stage. 
+The V-model has many demonstrations according to the way the development stages of the software are defined. It is important that each stage is paired with its own test.
+
+Advantages
+
+The V-model clearly demonstrated which stage to test in what way. In this way, the testing and ventation of what has been done is carried out 
+into a systematic discipline with a plan. This makes it easier to notice and correct errors.
+
+Disadvantages
+
+It is suggested that the V-model is a standardized type of test part of the waterfall model and does not bring anything new. 
+Disadvantages such as understanding the needs of the waterfall model in the later stages, 
+costly returns and delaying the team's inclusion in the project can also be seen in the V-model.
+The V-model is similar to the waterfall model in terms of planning. However, the standardization of control stages and tests prevents them from being forgotten. 
+Using test priority development (TDD), testing at the first moment is of significant benefit. Pairing with the work to be done allows the teams responsible 
+for these issues to work together in the early stages. For example, the architecture and the test team can work together to prepare the project's integration test scenario. 
+This allows time to be used more effectively.
+
+
+Big Bang Model
+
+Big Bang Model is the simplest model in the Software Development Life Cycle. It requires less planning, lots of coding or programming and lots of funds. 
+The model name shows Big Bang as it is inspired by the Big Bang theory. According to the theory, the scientists say that after Big Bang blast lots of galaxies, 
+planets, and stars are developed gradually. Likewise, we combined time, effort, resources, funds and then we can achieve the best software product. 
+In this model, we do not follow any specific process or procedure but, it required a little bit of planning. In this model, we develop software by using time and resources, 
+but that product may or may not meet as per customer requirement. This model is not actually suitable for large software development or 
+complex projects as it is a high-risk model but for temporary and experimental or for small software we can use this model.
+Usually, this model is suitable for small projects where the development teams are very small i.e. one or two developers working together to build a software application or 
+just as a dummy project and is also useful for academic or learning or practice projects. It is a good model for the software product where requirements are not clear or 
+not understood and there is no release date for that software product.
+
+Note:
+
+•	The SDLC is a model used in project management to provide steps to develop the software application or product successfully.
+•	SDLC stands for Software Development Life Cycle.
+•	One of the worst models for developing software is the Big Bang model. It is not used in the software industry, but useful for learning or experimental project purpose.
+•	It has no process or procedure, but little planning required for the development.
+•	The customer requirements are undefined or not clear.
+•	No need to meet as per the client requirement.
+•	Not mention the release date for the product.
+
+Advantages
+
+•	It is a simple model & Easy to Implement. It is a quite simple model to implement as there is no need of Software development life cycle process steps.
+•	It requires less planning. There is no need for big analysis and planning, just start coding. So there is no need for planning, analysis, documentation,high-level design, etc.
+•	It requires fewer resources. This model is preferred for small software development projects where 1 to 2 developers are
+  working together to build a product or just as a dummy project.
+•	It is suitable for small projects. As per less no workforce and no need to SDLC process steps, so it handles small projects only.
+•	It is cost-effective. To implement this model in software development, it requires fewer resources, less developers, and less managing cost, so it is cost-effective.
+•	Easily managing. There is no inbound procedures are required to start the project. So this model is easy to manage. It is good for small projects with a low-risk factor.
+•	It has no time limit for project so flexible for developers: For the software product, 
+  there is no release date for deployment and it puts less pressure on developers to develop the product.
+•	It produces good developer i.e. full stack developer: This model helps to develop software coding skill in different technologies for the newcomers or students.
+
+Disadvantages
+
+•	It is not suitable for Big or complex projects. As a highly risky model, so we can’t use it to developing a big or complex project.
+•	It is an Extremely Risky model. Due to less planning and no need to follow the SDLC process steps during software development, so this model is a risky model.
+•	It has uncertainty in nature. The existence of the software product may or may not use for Business purpose or durability of the product is less, 
+  so it has uncertainty in nature.
+•	It is an inexpensive model. This model provides less return on investment (ROI) as the product didn’t use in the global market.
+•	It is the worst model for long and ongoing projects. For a long or big project, we need multiple steps, like, service level agreement, planning, preparation, analysis, 
+  testing, execution, etc whereas in Big Bang model doesn’t have it. So it is the worst model for a big project.
+  
